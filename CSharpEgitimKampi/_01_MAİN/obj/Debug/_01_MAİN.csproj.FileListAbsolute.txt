@@ -1,0 +1,7 @@
+C:\Users\lenovo\OneDrive\Masaüstü\Muratcsharp\CSharpEgitimKampi\_01_MAİN\bin\Debug\_01_MAİN.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\Muratcsharp\CSharpEgitimKampi\_01_MAİN\bin\Debug\_01_MAİN.exe
+C:\Users\lenovo\OneDrive\Masaüstü\Muratcsharp\CSharpEgitimKampi\_01_MAİN\bin\Debug\_01_MAİN.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Muratcsharp\CSharpEgitimKampi\_01_MAİN\obj\Debug\_01_MAİN.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Muratcsharp\CSharpEgitimKampi\_01_MAİN\obj\Debug\_01_MAİN.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Muratcsharp\CSharpEgitimKampi\_01_MAİN\obj\Debug\_01_MAİN.exe
+C:\Users\lenovo\OneDrive\Masaüstü\Muratcsharp\CSharpEgitimKampi\_01_MAİN\obj\Debug\_01_MAİN.pdb
